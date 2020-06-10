@@ -1,0 +1,10 @@
+C:\Users\usuario2\source\repos\Presentacion proyecto\Entity\bin\Debug\Entity.dll
+C:\Users\usuario2\source\repos\Presentacion proyecto\Entity\bin\Debug\Entity.pdb
+C:\Users\usuario2\source\repos\Presentacion proyecto\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\usuario2\source\repos\Presentacion proyecto\Entity\obj\Debug\Entity.dll
+C:\Users\usuario2\source\repos\Presentacion proyecto\Entity\obj\Debug\Entity.pdb
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\Nueva carpeta (3)\Presentacion proyecto\Entity\bin\Debug\Entity.dll
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\Nueva carpeta (3)\Presentacion proyecto\Entity\bin\Debug\Entity.pdb
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\Nueva carpeta (3)\Presentacion proyecto\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\Nueva carpeta (3)\Presentacion proyecto\Entity\obj\Debug\Entity.dll
+C:\Users\usuario2\Desktop\Sustentacion e bas de datos\Nueva carpeta (3)\Presentacion proyecto\Entity\obj\Debug\Entity.pdb
